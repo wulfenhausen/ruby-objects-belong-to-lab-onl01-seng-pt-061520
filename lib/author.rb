@@ -3,7 +3,6 @@ class Author
   
   def initialize
     @name = name
-    @genre = genre
   end
   
 end
